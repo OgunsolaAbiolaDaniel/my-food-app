@@ -1,9 +1,10 @@
-import Footer from "@/component/Footer/Footer";
-import Header from "@/component/Header/Header";
-import InnerSection from "@/component/InnerSession/InnerSession";
-import SecondSection from "@/component/SecondSection/SecondSection";
-import ThirdSection from "@/component/ThirdSection/ThirdSection";
-import UpperSection from "@/component/UpperSection/UpperSection";
+import Footer from "@/components/Footer/Footer";
+import Header from "@/components/Header/Header";
+import InnerSection from "@/components/InnerSession/InnerSession";
+import SecondSection from "@/components/SecondSection/SecondSection";
+import ThirdSection from "@/components/ThirdSection/ThirdSection";
+import UpperSection from "@/components/UpperSection/UpperSection";
+
 
 export default function Home() {
   return (
